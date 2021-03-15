@@ -1,5 +1,5 @@
 # Advanced Lane Finding
----
+
 Project Steps
 1. Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 2. Apply a distortion correction to raw images.
